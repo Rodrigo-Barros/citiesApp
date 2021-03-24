@@ -17,6 +17,9 @@ On Android run This:
 On Iphone run This:
 `npx react-native run-ios`
 
+# References
+I Based the layout In this [repo](https://github.com/GustavoHGS) I wanna thank [Gustavo Garcia](https://github.com/GustavoHGS) to made this challenge.
+
 # Gallery
 
 ![Start Page](imgs/img1.jpg)
